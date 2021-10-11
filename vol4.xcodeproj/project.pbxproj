@@ -15,6 +15,8 @@
 		84A8786F270F6C7100DE570B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A8786D270F6C7100DE570B /* LaunchScreen.storyboard */; };
 		84CD41D0271415CB00D4EEC4 /* VovasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CD41CF271415CB00D4EEC4 /* VovasViewController.swift */; };
 		84CD41D3271415DD00D4EEC4 /* VovasStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84CD41D2271415DD00D4EEC4 /* VovasStoryboard.storyboard */; };
+		959BB9172714191400B283F8 /* AnnasStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 959BB9162714191400B283F8 /* AnnasStoryboard.storyboard */; };
+		959BB9192714194E00B283F8 /* AnnasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BB9182714194E00B283F8 /* AnnasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		84A87870270F6C7100DE570B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84CD41CF271415CB00D4EEC4 /* VovasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VovasViewController.swift; sourceTree = "<group>"; };
 		84CD41D2271415DD00D4EEC4 /* VovasStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = VovasStoryboard.storyboard; sourceTree = "<group>"; };
+		959BB9162714191400B283F8 /* AnnasStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AnnasStoryboard.storyboard; sourceTree = "<group>"; };
+		959BB9182714194E00B283F8 /* AnnasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnnasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				84A87868270F6C6600DE570B /* Main.storyboard */,
 				84CD41CF271415CB00D4EEC4 /* VovasViewController.swift */,
 				84CD41D2271415DD00D4EEC4 /* VovasStoryboard.storyboard */,
+				959BB9162714191400B283F8 /* AnnasStoryboard.storyboard */,
+				959BB9182714194E00B283F8 /* AnnasViewController.swift */,
 				84A8786B270F6C7100DE570B /* Assets.xcassets */,
 				84A8786D270F6C7100DE570B /* LaunchScreen.storyboard */,
 				84A87870270F6C7100DE570B /* Info.plist */,
@@ -132,6 +138,7 @@
 			files = (
 				84A8786F270F6C7100DE570B /* LaunchScreen.storyboard in Resources */,
 				84CD41D3271415DD00D4EEC4 /* VovasStoryboard.storyboard in Resources */,
+				959BB9172714191400B283F8 /* AnnasStoryboard.storyboard in Resources */,
 				84A8786C270F6C7100DE570B /* Assets.xcassets in Resources */,
 				84A8786A270F6C6600DE570B /* Main.storyboard in Resources */,
 			);
@@ -145,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84A87867270F6C6600DE570B /* ViewController.swift in Sources */,
+				959BB9192714194E00B283F8 /* AnnasViewController.swift in Sources */,
 				84A87863270F6C6600DE570B /* AppDelegate.swift in Sources */,
 				84CD41D0271415CB00D4EEC4 /* VovasViewController.swift in Sources */,
 				84A87865270F6C6600DE570B /* SceneDelegate.swift in Sources */,
