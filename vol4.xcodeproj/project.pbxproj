@@ -13,8 +13,6 @@
 		84A8786A270F6C6600DE570B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A87868270F6C6600DE570B /* Main.storyboard */; };
 		84A8786C270F6C7100DE570B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A8786B270F6C7100DE570B /* Assets.xcassets */; };
 		84A8786F270F6C7100DE570B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A8786D270F6C7100DE570B /* LaunchScreen.storyboard */; };
-		955020C4270F6DFC00E2AE7F /* annaStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 955020C3270F6DFC00E2AE7F /* annaStoryboard.storyboard */; };
-		955020C6270F6E1000E2AE7F /* AnnaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955020C5270F6E1000E2AE7F /* AnnaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +24,6 @@
 		84A8786B270F6C7100DE570B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84A8786E270F6C7100DE570B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84A87870270F6C7100DE570B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		955020C3270F6DFC00E2AE7F /* annaStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = annaStoryboard.storyboard; sourceTree = "<group>"; };
-		955020C5270F6E1000E2AE7F /* AnnaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnnaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +60,6 @@
 				84A87864270F6C6600DE570B /* SceneDelegate.swift */,
 				84A87866270F6C6600DE570B /* ViewController.swift */,
 				84A87868270F6C6600DE570B /* Main.storyboard */,
-				955020C3270F6DFC00E2AE7F /* annaStoryboard.storyboard */,
-				955020C5270F6E1000E2AE7F /* AnnaViewController.swift */,
 				84A8786B270F6C7100DE570B /* Assets.xcassets */,
 				84A8786D270F6C7100DE570B /* LaunchScreen.storyboard */,
 				84A87870270F6C7100DE570B /* Info.plist */,
@@ -133,7 +127,6 @@
 				84A8786F270F6C7100DE570B /* LaunchScreen.storyboard in Resources */,
 				84A8786C270F6C7100DE570B /* Assets.xcassets in Resources */,
 				84A8786A270F6C6600DE570B /* Main.storyboard in Resources */,
-				955020C4270F6DFC00E2AE7F /* annaStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				955020C6270F6E1000E2AE7F /* AnnaViewController.swift in Sources */,
 				84A87867270F6C6600DE570B /* ViewController.swift in Sources */,
 				84A87863270F6C6600DE570B /* AppDelegate.swift in Sources */,
 				84A87865270F6C6600DE570B /* SceneDelegate.swift in Sources */,
