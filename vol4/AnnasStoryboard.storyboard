@@ -22,11 +22,19 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1he-en-FhB">
+                                <rect key="frame" x="110" y="710" width="194" height="45"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="27"/>
+                                <state key="normal" title="tab button"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
                         <color key="backgroundColor" systemColor="systemTealColor"/>
                         <constraints>
                             <constraint firstItem="4T2-xq-Wyk" firstAttribute="centerY" secondItem="5EZ-qb-Rvc" secondAttribute="centerY" id="H6b-54-ytj"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="bottom" secondItem="1he-en-FhB" secondAttribute="bottom" constant="107" id="HQN-Fi-EjP"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="1he-en-FhB" secondAttribute="trailing" constant="110" id="dei-s3-HtB"/>
+                            <constraint firstItem="1he-en-FhB" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="110" id="ryO-Fg-ei5"/>
                             <constraint firstItem="4T2-xq-Wyk" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="tWm-Bk-pVz"/>
                         </constraints>
                     </view>
